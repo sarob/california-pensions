@@ -55,15 +55,15 @@
     pieChart  : [
       {
         color       : 'red',
-        description : 'Ipsem lorem text goes here. And foo goes bar goes baz. That\'s up!!!',
-        title       : 'flowers',
-        value       : 0.62
+        description : '$188,018,812,443',
+        title       : 'Accrued Liability (AL) of $188B',
+        value       : 0.70
       },
       {
         color       : 'blue',
-        description : 'Another ipsem text goes here. And baz goes bar goes foo. Oh yeah, whazzz up?',
-        title       : 'trains',
-        value       : 0.38
+        description : '$188,018,812,443',
+        title       : 'Unfunded Accrued Liability (UAL) of $57B',
+        value       : 0.30
       }
     ]
   };
