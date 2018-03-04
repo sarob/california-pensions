@@ -2,42 +2,42 @@
   var data = {
     lineChart : [
       {
-        date  : '2017',
+        date  : '2017-01-01',
         label : '2017-18 Estimated Total Employer Contribution',
         value : 5305265065
       },
       {
-        date  : '2018',
+        date  : '2018-01-01',
         label : '2018-19 Estimated Total Employer Contribution',
         value : 6084142084
       },
       {
-        date  : '2019',
+        date  : '2019-01-01',
         label : '2019-20 Estimated Total Employer Contribution',
         value : 6974466971
       },
       {
-        date  : '2020',
+        date  : '2020-01-01',
         label : '2020-21 Estimated Total Employer Contribution',
         value : 7840138137
       },
       {
-        date  : '2021',
+        date  : '2021-01-01',
         label : '2021-22 Estimated Total Employer Contribution',
         value : 8588821095
       },
       {
-        date  : '2022',
+        date  : '2022-01-01',
         label : '2022-23 Estimated Total Employer Contribution',
         value : 9259726363
       },
       {
-        date  : '2023',
+        date  : '2023-01-01',
         label : '2023-24 Estimated Total Employer Contribution',
         value : 9751170537
       },
       {
-        date  : '2024',
+        date  : '2024-01-01',
         label : '2024-25 Estimated Total Employer Contribution',
         value : 10145503830
       }
@@ -51,7 +51,7 @@
       },
       {
         color       : 'blue',
-        description : '$188,018,812,443',
+        description : '$57,575,952,356',
         title       : 'Unfunded Accrued Liability (UAL) of $57B',
         value       : 0.30
       }
