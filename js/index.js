@@ -4,12 +4,12 @@
       {
         date  : '2017',
         label : '2017-18 Estimated Total Employer Contribution',
-        value : 5,305,265,065
+        value : 5305265065
       },
       {
         date  : '2018',
         label : '2018-19 Estimated Total Employer Contribution',
-        value : 6,084,142,084
+        value : 6084142084
       },
       {
         date  : '2019',
@@ -19,27 +19,27 @@
       {
         date  : '2020',
         label : '2020-21 Estimated Total Employer Contribution',
-        value : 7,840,138,137
+        value : 7840138137
       },
       {
         date  : '2021',
         label : '2021-22 Estimated Total Employer Contribution',
-        value : 8,588,821,095
+        value : 8588821095
       },
       {
         date  : '2022',
         label : '2022-23 Estimated Total Employer Contribution',
-        value : 9,259,726,363
+        value : 9259726363
       },
       {
         date  : '2023',
         label : '2023-24 Estimated Total Employer Contribution',
-        value : 9,751,170,537
+        value : 9751170537
       },
       {
         date  : '2024',
         label : '2024-25 Estimated Total Employer Contribution',
-        value : 10,145,503,830
+        value : 10145503830
       }
     ],
     pieChart  : [
