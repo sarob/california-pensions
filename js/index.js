@@ -14,7 +14,7 @@
       {
         date  : '2019',
         label : '2019-20 Estimated Total Employer Contribution',
-        value : 6,974,466,971
+        value : 6974466971
       },
       {
         date  : '2020',
