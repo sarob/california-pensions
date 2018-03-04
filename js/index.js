@@ -2,54 +2,44 @@
   var data = {
     lineChart : [
       {
-        date  : '2006-02-22',
-        label : 'foo',
-        value : 950
+        date  : '2017',
+        label : '2017-18 Estimated Total Employer Contribution',
+        value : 5,305,265,065
       },
       {
-        date  : '2006-08-22',
-        label : 'bar',
-        value : 1000
+        date  : '2018',
+        label : '2018-19 Estimated Total Employer Contribution',
+        value : 6,084,142,084
       },
       {
-        date  : '2007-01-11',
-        label : 'baz',
-        value : 700
+        date  : '2019',
+        label : '2019-20 Estimated Total Employer Contribution',
+        value : 6,974,466,971
       },
       {
-        date  : '2008-10-01',
-        label : 'boing',
-        value : 534
+        date  : '2020',
+        label : '2020-21 Estimated Total Employer Contribution',
+        value : 7,840,138,137
       },
       {
-        date  : '2009-02-24',
-        label : 'loool',
-        value : 1423
+        date  : '2021',
+        label : '2021-22 Estimated Total Employer Contribution',
+        value : 8,588,821,095
       },
       {
-        date  : '2010-12-30',
-        label : 'YEAH',
-        value : 1222
+        date  : '2022',
+        label : '2022-23 Estimated Total Employer Contribution',
+        value : 9,259,726,363
       },
       {
-        date  : '2011-05-15',
-        label : 'Hurray',
-        value : 948
+        date  : '2023',
+        label : '2023-24 Estimated Total Employer Contribution',
+        value : 9,751,170,537
       },
       {
-        date  : '2012-04-02',
-        label : 'WTF',
-        value : 1938
-      },
-      {
-        date  : '2013-08-19',
-        label : 'OMG',
-        value : 1245
-      },
-      {
-        date  : '2013-11-11',
-        label : 'ROFL',
-        value : 888
+        date  : '2024',
+        label : '2024-25 Estimated Total Employer Contribution',
+        value : 10,145,503,830
       }
     ],
     pieChart  : [
