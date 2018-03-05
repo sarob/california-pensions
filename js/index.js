@@ -411,7 +411,7 @@
                     .text ( '0 %' )
                     .attr( 'class', 'pieChart--detail--percentage' )
                     .attr( 'x', ( position === 'left' ? 0 : infoWidth ) )
-                    .attr( 'y', -10 )
+                    .attr( 'y', 0 )
                     .attr( 'text-anchor', anchor )
                     .transition()
                     .duration( DURATION )
