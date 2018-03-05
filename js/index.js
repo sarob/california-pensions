@@ -45,14 +45,14 @@
     pieChart  : [
       {
         color       : 'red',
-        description : '$188,018,812,443',
-        title       : 'Accrued Liability (AL) of $188B',
+        description : 'Accrued Liability (AL) of $188B',
+        title       : 'Accrued Liability (AL) of 	$188,018,812,443',
         value       : 0.70
       },
       {
         color       : 'blue',
-        description : '$57,575,952,356',
-        title       : 'Unfunded Accrued Liability (UAL) of $57B',
+        description : 'Unfunded Accrued Liability (UAL) of $57B',
+        title       : 'Unfunded Accrued Liability (UAL) of $57,575,952,356',
         value       : 0.30
       }
     ]
